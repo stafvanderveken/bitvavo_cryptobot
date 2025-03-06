@@ -12,7 +12,6 @@ A simple crypto trading bot that uses the Bitvavo API to trade on the Bitvavo pl
 
 2. **Add your API credentials** to the `.env` file with the following format:
 
-```plaintext
 API_KEY=123456789
 API_SECRET=123456789
 
