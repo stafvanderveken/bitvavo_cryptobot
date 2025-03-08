@@ -8,7 +8,7 @@ A simple crypto trading bot that uses the Bitvavo API to trade on the Bitvavo pl
 
 ## Setup
 
-1. Get your API key and secret from Bitvavo Dashboard to a secure location. https://account.bitvavo.com/login
+1. Get your API key and secret from Bitvavo Dashboard to a secure location. [https://account.bitvavo.com/login](https://bitvavo.com/invite?a=A2DC1BCD6B)
 
 2. **Add your API credentials** to the `.env` file with the following format:
 
